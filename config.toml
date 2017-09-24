@@ -1,0 +1,23 @@
+baseurl = "https://dharmitshah.com"
+languageCode = "en-us"
+title = "dharmit shah"
+theme = "hyde"
+copyright = "Dharmit Shah"
+enableEmoji = true
+
+[Author]
+	name = "dharmit"
+
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+	# code = "/:filename/"
+
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+
+[params]
+	description = "one more attempt at writing"
+	twitter = "https://twitter.com/dharm1t"
+	github = "https://github.com/dharmit"
