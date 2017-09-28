@@ -4,6 +4,7 @@ title = "dharmit shah"
 theme = "hyde"
 copyright = "Dharmit Shah"
 enableEmoji = true
+googleAnalytics = "UA-107222182-1"
 
 [Author]
 	name = "dharmit"
@@ -21,3 +22,4 @@ enableEmoji = true
 	description = "one more attempt at writing"
 	twitter = "https://twitter.com/dharm1t"
 	github = "https://github.com/dharmit"
+    disqus = "dharmitshah-com"
