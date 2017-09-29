@@ -1,6 +1,6 @@
 baseurl = "https://dharmitshah.com"
 languageCode = "en-us"
-title = "dharmit shah"
+title = ""
 theme = "hyde"
 copyright = "Dharmit Shah"
 enableEmoji = true
@@ -23,3 +23,4 @@ googleAnalytics = "UA-107222182-1"
 	twitter = "https://twitter.com/dharm1t"
 	github = "https://github.com/dharmit"
     disqus = "dharmitshah-com"
+    mainImage = "/ds.png"
