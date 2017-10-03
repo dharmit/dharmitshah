@@ -107,7 +107,7 @@ then be used in playbooks.
 $ cat /etc/ansible/hosts
 [servers]
 172.29.33.22    http_port=8080
-172.29.33.23    http_port=9090
+172.29.33.23    http_port=9000
 ```
 
 Above snippet defines `http_port` to different values for the two hosts. Let's
@@ -132,7 +132,7 @@ That's handful of commands to execute. Let's see what each one does.
 
 Now if we `curl` these systems, we'll be greeted with default Apache web
 server page. All we need to do is `curl 172.29.33.22:8080` or `curl
-172.29.33.23:9090`.
+172.29.33.23:9000`.
 
 ### Group Variables
 
