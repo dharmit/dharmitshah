@@ -121,16 +121,16 @@ host2                      : ok=4    changed=3    unreachable=0    failed=0
 
 See how the `name` we set for every task in the `playbook.yaml` file is shown
 in above output. As an aside, execute the very same command again and observe
-the output. Everything that show `changed` in above output will instead show as
-`ok` because nothing *changed* in remote systems as everything was setup just a
-few seconds back. :wink:
+the output. Everything that shows `changed` in above output will instead show
+as `ok` because nothing *changed* in remote systems as everything was setup
+just a few seconds back. :wink:
 
 ### That's it for this post
 
 In upcoming posts, we'll be creating an example application and deploying that
-using Ansible Playbooks. Although it won'tbe as complex as most real-life
-applications and their deployments, it'll give a fair idea of Ansible can be
-used in deploying non-trivial applications.
+using Ansible Playbooks. Although it won't be as complex as most real-life
+applications and their deployments, it'll give a fair idea of how Ansible can
+be used to deploy non-trivial applications.
 
 If you have any feedback/suggestions, leave it in the comment section at the
 bottom of the post. Until next time. :wink:
