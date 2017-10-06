@@ -1,5 +1,5 @@
 +++
-title = "Ansible Series: The inventory file - add hosts and work with remote systems" 
+title = "Ansible Series: The inventory file - working with remote systems" 
 date = 2017-09-29T17:44:33+05:30
 type = "post"
 series = ["Ansible"]
