@@ -3,6 +3,7 @@ title = "Ansible Series: The inventory file - variables, aliases and more"
 date = 2017-09-30T07:53:58+05:30
 type = "post"
 series = ["Ansible"]
+tags = ["ansible", "devops", "automation"]
 +++
 
 In the [previous post](https://dharmitshah.com/2017/09/ansible-series-part-2/)

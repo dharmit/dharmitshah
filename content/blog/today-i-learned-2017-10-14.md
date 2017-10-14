@@ -2,6 +2,7 @@
 title = "Today I Learned: 2017-10-14"                           
 date = 2017-10-14T12:55:15+05:30
 type = "post"
+tags =["TIL"]
 +++
 
 I have this habit of reading self-help/self-improvement and philosophical

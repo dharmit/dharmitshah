@@ -3,6 +3,7 @@ title = "Ansible Series: Set things up"
 date = 2017-09-28T11:42:53+05:30
 type = "post"
 series = ["Ansible"]
+tags = ["ansible", "devops", "automation"]
 +++
 
 As I mentioned in my [previous

@@ -3,6 +3,7 @@ title = "Ansible Series: Introducing Playbooks"
 date = 2017-10-03T18:57:29+05:30
 type = "post"
 series = ["Ansible"]
+tags = ["ansible", "devops", "automation"]
 +++
 
 In previous [post](https://dharmitshah.com/2017/09/ansible-series-part-3/), we
