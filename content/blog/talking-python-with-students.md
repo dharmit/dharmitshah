@@ -63,7 +63,7 @@ opprtunities that Python, Linux and open source in general would open up for
 them.
 
 Topics I covered ([link to
-slides](https://dharmitshah.com/2017/11/talking-python-with-students/)):
+slides](https://www.slideshare.net/shahdharmit/python-in-industry)):
 
 - History of Python
 - Which organizations use Python and how they use them
