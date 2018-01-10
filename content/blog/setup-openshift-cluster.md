@@ -16,7 +16,7 @@ I use [CentOS](https://centos.org/)'s
 instances. And it is on the same infra that I brought up my first real
 OpenShift cluster deployed using
 [openshift-ansible](https://github.com/openshift/openshift-ansible). I used
-[this hosts](http://pastebin.centos.org/464276/) file along with the playbook
+[this hosts](http://pastebin.centos.org/491411/) file along with the playbook
 available under [`byo`
 directory](https://github.com/openshift/openshift-ansible/blob/release-3.6/playbooks/byo/config.yml)
 for OpenShift 3.6.1. It's a 2-node cluster where one system behaves as master
@@ -42,6 +42,14 @@ For a smooth installation and setup, I had to ensure a few things like:
 
 - Install the RPM `python-rhsm-ceritificates` so that Ansible can pull an image
   from registry.access.redhat.com.
+
+After finishing these steps, perform the installation:
+
+```bash
+$ ansible-playbook openshift-ansible/playbooks/byo/config.yml
+```
+
+I did it off the `release-3.6` branch.
 
 ### Post-install setup
 
