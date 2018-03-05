@@ -59,7 +59,7 @@ average socilzation in just 3 days! Since I love talking with people and giving
 talks (doing meetup talks on regular basis) this was most positive takeaway
 from the trip!
 
-### Travling Europe
+### Travelling Europe
 
 If you have seen the iconic Bollywood movie "[Dilwale Dulhania Le
 Jayenge](www.imdb.com/title/tt0112870/)", you would know that most of us in
