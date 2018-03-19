@@ -2,6 +2,7 @@
 title = "Talking Python with students"
 date = 2017-11-03T14:13:57+05:30
 type = "post"
+series = ["Speaking"]
 +++
 
 Those who know me are aware that I've given talks at various
