@@ -24,3 +24,6 @@ googleAnalytics = "UA-107222182-1"
 	github = "https://github.com/dharmit"
     disqus = "dharmitshah-com"
     mainImage = "/ds.png"
+
+[blackfriday]
+    hrefTargetBlank = true
