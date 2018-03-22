@@ -26,7 +26,8 @@ monoliths and microservices.
 
 ### The Talk
 
-First, the slides:
+First, [the
+slides](http://www.slideshare.net/slideshow/embed_code/91432605?rel=0):
 
 {{< slideshare id="91432605" >}}
 
