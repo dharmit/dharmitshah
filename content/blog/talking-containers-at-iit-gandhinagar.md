@@ -52,11 +52,11 @@ dive deep into it.
 
 ### Informal discussions with faculties
 
-I was invited to IIT Gandhinagar by [Prof. Manu
-Awasthi](http://www.iitgn.ac.in/faculty/comp/manu.htm). During the course of my
-talk and after that I got an opportunity to interact with [Prof. Bireswar
-Das](http://www.iitgn.ac.in/faculty/comp/bireswar.htm) and [Prof. Neeldhara
-Misra](http://www.iitgn.ac.in/faculty/comp/neeldhara.htm) as well.
+I went to IIT Gandhinagar upon invitation from one of the faculty members. And
+two more faculty members attended my talk. I got an opportunity to interact
+with three faculties and the discussions were pretty interesting. Having talked
+at few other colleges, I felt that, in general, challenges they face are pretty
+much the same.
 
 General opinion of the faculties was that most students weren't really aware of
 much of the things happening in the world of containers. One of the surprising
@@ -71,7 +71,7 @@ seeing development as well!
 We even planned on having a workshop to have hands-on about containers and
 developing an app based on microservices pattern. Idea of using OpenShift to do
 CI/CD, build images and eventually deploy the code seemed interesting to the
-faculty member.
+faculty members.
 
 Above all, and probably the best part, the faculties were more than willing to
 host community meetups at IIT Gandhinagar campus. I'm really looking forward to
