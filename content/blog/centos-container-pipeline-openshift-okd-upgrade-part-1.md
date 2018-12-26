@@ -9,7 +9,7 @@ This blog post and others in the series are going to be about the OpenShift
 cluster upgrade that our team performed for CentOS Container Pipeline
 during December 2018. To find all the blogs on the topic, check the
 [`openshift_upgrade_2018
-`](https://dharmitshah.com/tags/openshift_upgrade_2018) tag.
+`](../../..//tags/openshift_upgrade_2018) tag.
 
 OpenShift Origin was renamed to OKD (Origin Community Distribution of
 Kubernetes) so I'll be using the term OKD in this and future posts to refer to
