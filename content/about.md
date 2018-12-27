@@ -18,5 +18,5 @@ a organizer/co-organizer of few meetup groups:
 
 When not fiddling with tech, I spend time reading
 [books](http://goodreads.com/dharmit), clicking [random
-pics](https://www.instagram.com/_dharmit/) or taking a stroll in nature. And
-this blog is a try at writing. :wink:
+pics](https://www.instagram.com/dh4rmit/) or taking a stroll in nature. And
+this blog is an attempt at writing. :wink:
