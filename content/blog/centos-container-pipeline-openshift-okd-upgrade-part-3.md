@@ -10,8 +10,8 @@ blogs](../../../tags/openshift_upgrade_2018) on OpenShift OKD upgrade we
 performed for the CentOS Container Pipeline project. If you haven't read the
 [first
 part](../../../2018/12/centos-container-pipeline-openshift-okd-upgrade-part-1)
-and [second
-parts](../../../2018/12/centos-container-pipeline-openshift-okd-upgrade-part-2),
+and the [second
+part](../../../2018/12/centos-container-pipeline-openshift-okd-upgrade-part-2),
 this post might not make a lot of sense. Go ahead, read them first.
 
 I ended the previous post with describing the unconventional path we
