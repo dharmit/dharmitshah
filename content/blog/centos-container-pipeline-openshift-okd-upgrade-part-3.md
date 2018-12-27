@@ -8,9 +8,11 @@ tags = ["openshift", "automation", "ansible", "centos_container_pipeline", "cont
 This blog is a part of the [series of
 blogs](../../../tags/openshift_upgrade_2018) on OpenShift OKD upgrade we
 performed for the CentOS Container Pipeline project. If you haven't read the
-[first part](../centos-container-pipeline-openshift-okd-upgrade-part-1) and
-[second parts](../centos-container-pipeline-openshift-okd-upgrade-part-2), this
-post might not make a lot of sense. Go ahead, read them first.
+[first
+part](../../../2018/12/centos-container-pipeline-openshift-okd-upgrade-part-1)
+and [second
+parts](../../../2018/12/centos-container-pipeline-openshift-okd-upgrade-part-2),
+this post might not make a lot of sense. Go ahead, read them first.
 
 I ended the previous post with describing the unconventional path we
 unwillingly decided to go with and how that led us to figure the cause of

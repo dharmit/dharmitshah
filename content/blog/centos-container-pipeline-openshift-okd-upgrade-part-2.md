@@ -8,8 +8,9 @@ tags = ["openshift", "automation", "ansible", "centos_container_pipeline", "cont
 This blog is a part of the [series of
 blogs](../../../tags/openshift_upgrade_2018) on OpenShift OKD upgrade we
 performed for the CentOS Container Pipeline project. If you haven't read the
-[first part](../centos-container-pipeline-openshift-okd-upgrade-part-1), this
-post might not make a lot of sense. Go ahead, read that first.
+[first
+part](../../../2018/12/centos-container-pipeline-openshift-okd-upgrade-part-1),
+this post might not make a lot of sense. Go ahead, read that first.
 
 In the second installment of the series, I'm going to describe the steps we
 divided our plan into. Or rather, the steps we had to break things into because
