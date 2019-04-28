@@ -1,10 +1,11 @@
 baseurl = "https://dharmitshah.com"
 languageCode = "en-us"
-title = "dharmit shah"
-theme = "hyde"
+title = "Dharmit Shah"
+theme = "hermit"
 copyright = "Dharmit Shah"
 enableEmoji = true
 googleAnalytics = "UA-107222182-1"
+disqusShortname = "dharmitshah-com"
 
 [Author]
 	name = "dharmit"
@@ -19,11 +20,34 @@ googleAnalytics = "UA-107222182-1"
 	series-desc = "series-desc"
 
 [params]
-	description = "one more attempt at writing"
-	twitter = "https://twitter.com/dharm1t"
-	github = "https://github.com/dharmit"
-    disqus = "dharmitshah-com"
-    mainImage = "/ds.png"
+	mainImage = "/ds.png"
+	dateform        = "Jan 2, 2006"
+	dateformShort   = "Jan 2"
+	dateformNum     = "2006-01-02"
+	dateformNumTime = "2006-01-02 15:04 -0700"
+
+ 	homeSubtitle = "just another earthling"
+
+	# Social Icons
+	# Check https://github.com/Track3/hermit#social-icons for more info.
+	[[params.social]]
+	  name = "twitter"
+	  url = "https://twitter.com/dharm1t"
+	
+	[[params.social]]
+	  name = "instagram"
+	  url = "https://instagram.com/dh4rmit"
+	
+	[[params.social]]
+	  name = "github"
+	  url = "https://github.com/dharmit"
 
 [blackfriday]
-    hrefTargetBlank = true
+   	hrefTargetBlank = true
+
+[menu]
+
+  [[menu.main]]
+    name = "Blog"
+    url = "blog/"
+    weight = 10
