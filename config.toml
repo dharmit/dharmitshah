@@ -33,14 +33,18 @@ disqusShortname = "dharmitshah-com"
 	[[params.social]]
 	  name = "twitter"
 	  url = "https://twitter.com/dharm1t"
-	
+
 	[[params.social]]
-	  name = "instagram"
-	  url = "https://instagram.com/dh4rmit"
+	  name = "linkedin"
+	  url = "https://linkedin.com/in/dharmitshah"
 	
 	[[params.social]]
 	  name = "github"
 	  url = "https://github.com/dharmit"
+	
+	[[params.social]]
+	  name = "instagram"
+	  url = "https://instagram.com/dh4rmit"
 
 [blackfriday]
    	hrefTargetBlank = true
