@@ -1,7 +1,7 @@
 baseurl = "https://dharmitshah.com"
 languageCode = "en-us"
 title = "Dharmit Shah"
-theme = "hermit"
+theme = "keepit"
 copyright = "Dharmit Shah"
 enableEmoji = true
 disqusShortname = "dharmitshah-com"
@@ -10,8 +10,7 @@ disqusShortname = "dharmitshah-com"
 	name = "dharmit"
 
 [Permalinks]
-	blog = "/:year/:month/:filename/"
-	# code = "/:filename/"
+	posts = "/:year/:month/:filename/"
 
 [Taxonomies]
 	tag = "tags"
@@ -19,31 +18,27 @@ disqusShortname = "dharmitshah-com"
 	series-desc = "series-desc"
 
 [params]
-	mainImage = "/ds.png"
 	dateform        = "Jan 2, 2006"
 	dateformShort   = "Jan 2"
 	dateformNum     = "2006-01-02"
 	dateformNumTime = "2006-01-02 15:04 -0700"
 
- 	homeSubtitle = "just another earthling"
+	avatar = "me.jpg"
+ 	subtitle = "just another earthling"
+	author = "Dharmit Shah"
 
-	# Social Icons
-	# Check https://github.com/Track3/hermit#social-icons for more info.
-	[[params.social]]
-	  name = "twitter"
-	  url = "https://twitter.com/dharm1t"
+[params.share]
+Twitter = true
+Facebook = true
+HackerNews = true
+Linkedin = true
 
-	[[params.social]]
-	  name = "linkedin"
-	  url = "https://linkedin.com/in/dharmitshah"
-	
-	[[params.social]]
-	  name = "github"
-	  url = "https://github.com/dharmit"
-	
-	[[params.social]]
-	  name = "instagram"
-	  url = "https://instagram.com/dh4rmit"
+[params.social]
+	goodreads = "8656610-dharmit-shah"
+	github = "dharmit"
+	twitter = "dharm1t"
+	linkedin = "dharmitshah"
+	instagram = "dh4rmit"
 
 [blackfriday]
    	hrefTargetBlank = true
@@ -52,5 +47,5 @@ disqusShortname = "dharmitshah-com"
 
   [[menu.main]]
     name = "Blog"
-    url = "blog/"
+    url = "/posts/"
     weight = 10
