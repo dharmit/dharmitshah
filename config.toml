@@ -1,10 +1,9 @@
 baseurl = "https://dharmitshah.com"
 languageCode = "en-us"
-title = "Dharmit Shah"
+title = "dharmitshah.com"
 theme = "keepit"
 copyright = "Dharmit Shah"
 enableEmoji = true
-disqusShortname = "dharmitshah-com"
 
 [Author]
 	name = "dharmit"
@@ -24,7 +23,7 @@ disqusShortname = "dharmitshah-com"
 	dateformNumTime = "2006-01-02 15:04 -0700"
 
 	avatar = "me.jpg"
- 	subtitle = "just another earthling"
+ 	subtitle = "Explicit is better than implicit"
 	author = "Dharmit Shah"
 
 [params.share]
