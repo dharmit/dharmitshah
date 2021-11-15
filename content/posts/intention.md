@@ -1,7 +1,6 @@
 +++
 title = "Intention"                           
 date = 2017-09-24T19:37:37+05:30
-type = "post"
 +++
 
 This is not really my first attempt at blogging. I've tried and failed numerous

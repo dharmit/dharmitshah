@@ -1,7 +1,6 @@
 +++
 title = "Why so many questions?"
 date = 2020-11-14T08:33:53+05:30
-type = "post"
 +++
 
 Why don't we *all* wear a mask? Why don't we maintain social distancing in

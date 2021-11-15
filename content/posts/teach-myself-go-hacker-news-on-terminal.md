@@ -1,7 +1,6 @@
 +++
 title = "Teach myself Go through a side project - Hacker News on Terminal"
 date = 2017-11-20T18:12:21+05:30
-type = "post"
 tags = ["hnot", "go", "programming"]
 +++
 

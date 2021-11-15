@@ -1,7 +1,6 @@
 +++
 title = "DevConf.cz 2018 and my Europe visit"
 date = 2018-02-28T21:09:53+05:30
-type = "post"
 series = ["Speaking"]
 +++
 

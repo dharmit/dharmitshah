@@ -1,7 +1,6 @@
 +++
 title = "An Extra Mile"                           
 date = 2017-12-03T16:19:27+05:30
-type = "post"
 tags = ["programming"]
 +++
 

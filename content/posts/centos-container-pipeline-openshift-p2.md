@@ -1,7 +1,6 @@
 +++
 title = "Restructuring CentOS Container Pipeline using OpenShift - Part 2"
 date = 2018-09-11T18:56:33+05:30
-type = "post"
 tags = ["centos_container_pipeline"]
 +++
 

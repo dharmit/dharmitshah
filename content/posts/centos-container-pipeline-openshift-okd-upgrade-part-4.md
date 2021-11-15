@@ -1,7 +1,6 @@
 +++
 title = "Centos Container Pipeline OpenShift Upgrade Part 4 - 'Fire in the Hole'"
 date = 2018-12-27T14:37:22+05:30
-type = "post"
 tags = ["openshift", "automation", "ansible", "centos_container_pipeline", "containers", "openshift_upgrade_2018"]
 +++
 

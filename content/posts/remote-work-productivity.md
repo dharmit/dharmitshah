@@ -1,7 +1,6 @@
 +++
 title = "Being Productive while Working Remotely"                           
 date = 2020-04-11T15:29:10+05:30
-type = "post"
 tags = ["productivity"]
 +++
 

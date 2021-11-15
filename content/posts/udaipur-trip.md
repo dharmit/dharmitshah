@@ -1,7 +1,6 @@
 +++
 title = "Udaipur Trip 2017!" 
 date = 2017-11-05T08:18:18+05:30
-type = "post"
 tags = ["travel", "india"]
 +++
 

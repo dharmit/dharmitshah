@@ -1,7 +1,6 @@
 +++
 title ="Centos Container Pipeline OpenShift Upgrade Part 3 - 'Ready for Production!'"
 date = 2018-12-27T11:15:45+05:30
-type = "post"
 tags = ["openshift", "automation", "ansible", "centos_container_pipeline", "containers", "openshift_upgrade_2018"]
 +++
 

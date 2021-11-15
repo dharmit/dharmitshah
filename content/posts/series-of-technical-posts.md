@@ -1,7 +1,6 @@
 +++
 title = "Writing Series of Technical Posts"                           
 date = 2017-09-26T19:56:34+05:30
-type = "post"
 slug = "series-of-technical-posts"
 +++
 

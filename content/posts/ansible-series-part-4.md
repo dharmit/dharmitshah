@@ -1,7 +1,6 @@
 +++
 title = "Ansible Series: Introducing Playbooks"                           
 date = 2017-10-03T18:57:29+05:30
-type = "post"
 series = ["Ansible"]
 tags = ["ansible", "devops", "automation"]
 +++

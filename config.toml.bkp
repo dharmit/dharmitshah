@@ -1,0 +1,72 @@
+baseURL = "https://dharmitshah.com/"
+languageCode = "en"
+defaultcontentlanguage = "en"
+title = "dharmitshah"
+theme = "hugo-coder"
+
+enableTwemoji = true
+paginate = 50
+
+# relativeURLs = true
+
+[Author]
+	name = "dharmit"
+
+[Permalinks]
+	posts = "/:year/:month/:filename/"
+
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+
+[params]
+	dateform        = "Jan 2, 2006"
+	dateformShort   = "Jan 2"
+	dateformNum     = "2006-01-02"
+	dateformNumTime = "2006-01-02 15:04 -0700"
+
+	avatarurl = "me.jpg"
+ 	author = "Dharmit Shah"
+	
+	colorScheme = "auto"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/dharmit/"
+
+[[params.social]]
+name = "Twitter"
+url = "https://twitter.com/dharm1t"
+icon = "fa fa-2x fa-twitter"
+weight = 2
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+url = "https://www.linkedin.com/in/dharmitshah"
+weight = 3
+
+[[params.social]]
+name = "instagram"
+icon = "fa fa-2x fa-instagram"
+url = "https://www.instagram.com/dh4rmit"
+weight = 4
+
+[[params.social]]
+name = "Goodreads"
+icon = "fa fa-2x fa-book"
+weight = 5
+url = "https://www.goodreads.com/user/show/8656610-dharmit-shah"
+
+[blackfriday]
+   	hrefTargetBlank = true
+
+[menu]
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1

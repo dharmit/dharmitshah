@@ -1,7 +1,6 @@
 +++
 title = "Book: \"Borderlands\" by Pradeep Damodaran"
 date = 2019-09-12T11:33:40+05:30
-type = "post"
 +++
 
 I was looking for a book about travel. I had never read one! While I was

@@ -1,7 +1,6 @@
 +++
 title = "Speeding up the Fedora 32 boot-up"                           
 date = 2020-06-19T11:42:35+05:30
-type = "post"
 tags = ["2020", "tech", "linux", "fedora"]
 +++
 

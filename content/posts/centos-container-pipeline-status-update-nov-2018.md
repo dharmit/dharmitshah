@@ -1,7 +1,6 @@
 +++
 title = "Centos Container Pipeline Status Update November 2018"                           
 date = 2018-11-26T17:42:51+05:30
-type = "post"
 +++
 
 It's been two months since we deployed the CentOS Container Pipeline service

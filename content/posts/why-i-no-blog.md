@@ -1,7 +1,6 @@
 +++
 title = "Why I No Blog?"                           
 date = 2020-10-11T09:37:15+05:30
-type = "post"
 tags = ["writing"]
 +++
 

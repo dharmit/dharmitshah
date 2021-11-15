@@ -1,7 +1,6 @@
 +++
 title = "Shocked!"                           
 date = 2020-06-16T09:06:41+05:30
-type = "post"
 tags = ["life", "2020"]
 +++
 

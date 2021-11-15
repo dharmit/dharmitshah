@@ -1,15 +1,26 @@
-<footer class="footer">
-    <div class="copyright">
-        &copy;
-        {{ with .Site.Params.since }}
-        <span itemprop="copyrightYear">{{.}} - {{ now.Year }}</span>
+{{ if not .Site.Params.hideFooter | default false }}
+  <footer class="footer">
+    <section class="container">
+      {{ with .Site.Params.footerContent | safeHTML }}
+        <p>{{ . }}</p>
+      {{ end }}
+      {{ if not .Site.Params.hideCopyright }}
+        ©
+        {{ if (and (.Site.Params.since) (lt .Site.Params.since now.Year)) }}
+          {{ .Site.Params.since }} -
         {{ end }}
-         {{ if .Site.Params.author }}
-            <span class="author" itemprop="copyrightHolder"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.author  }}</a> </span>
-         {{ end }}
-
-		  <!-- <span>Crafted with ❤️ by <a href="https://github.com/Fastbyte01/KeepIt" target="_blank" rel="external nofollow noopener noreffer">KeepIt</a> & <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a></span> -->
-    </div>
-</footer>
-
-{{ partial "js.html" . }}
+        {{ now.Year }}
+        {{ with .Site.Params.author }} {{ . }} {{ end }}
+      {{ end }}
+      {{ if not .Site.Params.hideCredits }}
+        {{ if not .Site.Params.hideCopyright }} · {{ end }}
+        {{ i18n "powered_by" }} <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      {{ end }}
+      {{ if .Site.Params.commit }}
+        {{ if .GitInfo }}
+          [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>]
+        {{ end }}
+      {{ end }}
+    </section>
+  </footer>
+{{ end }}

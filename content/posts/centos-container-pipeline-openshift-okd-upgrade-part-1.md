@@ -1,7 +1,6 @@
 +++
 title = "Centos Container Pipeline OpenShift Upgrade Part 1 - 'The Plan'"
 date = 2018-12-19T15:32:03+05:30
-type = "post"
 tags = ["openshift", "automation", "ansible", "centos_container_pipeline", "containers", "openshift_upgrade_2018"]
 +++
 

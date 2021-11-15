@@ -1,7 +1,6 @@
 +++
 title = "Book: \"Man's Search for Meaning\" by Viktor Frankl"                           
 date = 2019-06-03T19:32:13+05:30
-type = "post"
 +++
 
 I had long wanted to pick up the book ["Man's Search for

@@ -1,50 +1,71 @@
-baseurl = "https://dharmitshah.com"
-languageCode = "en-us"
-title = "dharmitshah.com"
-theme = "keepit"
-copyright = "Dharmit Shah"
+baseURL = "https://dharmitshah.com/"
+title = "dharmitshah"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
-
-[Author]
-	name = "dharmit"
-
-[Permalinks]
-	posts = "/:year/:month/:filename/"
-
-[Taxonomies]
-	tag = "tags"
-	series = "series"
-	series-desc = "series-desc"
+relativeURLs = true
 
 [params]
-	dateform        = "Jan 2, 2006"
-	dateformShort   = "Jan 2"
-	dateformNum     = "2006-01-02"
-	dateformNumTime = "2006-01-02 15:04 -0700"
+author = "Dharmit Shah"
+avatarURL = "me.jpg"
+dateFormat = "January 2, 2006"
+since = 2017
 
-	avatar = "me.jpg"
- 	subtitle = "Explicit is better than implicit"
-	author = "Dharmit Shah"
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+# Custom JS
+customJS = []
 
-[params.share]
-Twitter = true
-Facebook = true
-HackerNews = true
-Linkedin = true
 
-[params.social]
-	goodreads = "8656610-dharmit-shah"
-	github = "dharmit"
-	twitter = "dharm1t"
-	linkedin = "dharmitshah"
-	instagram = "dh4rmit"
+[taxonomies]
+series = "series"
+tag = "tags"
+series-desc = "series-desc"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/dharmit/"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/dharm1t/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/dharmitshah/"
+
+[[params.social]]
+name = "instagram"
+icon = "fa fa-2x fa-instagram"
+url = "https://www.instagram.com/dh4rmit"
+weight = 4
+
+[[params.social]]
+name = "Goodreads"
+icon = "fa fa-2x fa-book"
+weight = 5
+url = "https://www.goodreads.com/user/show/8656610-dharmit-shah"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 1
+url = "posts/"
 
 [blackfriday]
-   	hrefTargetBlank = true
-
-[menu]
-
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 10
+hrefTargetBlank = true

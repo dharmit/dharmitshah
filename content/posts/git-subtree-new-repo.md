@@ -1,7 +1,6 @@
 +++
 title = "Use 'git subtree' to create new repository from a sub-directory"    
 date = 2017-10-15T14:45:49+05:30
-type = "post"
 tags = ["git"]
 +++
 

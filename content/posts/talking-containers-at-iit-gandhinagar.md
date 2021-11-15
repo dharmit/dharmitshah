@@ -1,7 +1,6 @@
 +++
 title = "Talking Containers at IIT Gandhinagar"                           
 date = 2018-03-21T19:31:41+05:30
-type = "post"
 series = ["Speaking"]
 tags = ["devops", "automation", "containers"]
 +++

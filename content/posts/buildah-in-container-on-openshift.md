@@ -1,7 +1,6 @@
 +++
 title = "Using Buildah to build container images on Openshift"                           
 date = 2018-12-20T16:24:41+05:30
-type = "post"
 tags = ["containers", "openshift", "centos_container_pipeline", "buildah", "podman"]
 +++
 

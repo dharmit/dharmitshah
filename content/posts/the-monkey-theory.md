@@ -1,7 +1,6 @@
 +++
 title = "Book: \"The Monkey Theory: Conquer Your Mental Chatter\" by Sfurthi Sahare"                           
 date = 2019-10-06T10:08:39+05:30
-type = "post"
 +++
 
 Recently I read [The Monkey Theory](https://amzn.to/2mRYrcL) by Sfurthi Sahare.

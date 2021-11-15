@@ -1,7 +1,6 @@
 +++
 title = "Setup a 2-node OpenShift cluster"                           
 date = 2017-12-14T23:58:22+05:30
-type = "post"
 tags = ["devops", "automation", "openshift"]
 +++
 
