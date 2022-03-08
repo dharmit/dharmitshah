@@ -9,6 +9,7 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 relativeURLs = true
+enableGitInfo = true
 
 [params]
 author = "Dharmit Shah"
