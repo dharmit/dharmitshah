@@ -9,6 +9,7 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 relativeURLs = true
+googleAnalytics = "UA-107222182-1"
 
 [params]
 author = "Dharmit Shah"
