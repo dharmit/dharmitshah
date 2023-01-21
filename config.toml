@@ -75,3 +75,7 @@ hrefTargetBlank = true
 
 [permalinks]
 posts = "/:year/:month/:filename/"
+
+[module]
+[module.hugoVersion]
+extended = false
