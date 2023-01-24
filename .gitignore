@@ -21,3 +21,11 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+#firebase
+.firebase
+.firebaserc
+
+#ide specific
+.vscode
+.idea
