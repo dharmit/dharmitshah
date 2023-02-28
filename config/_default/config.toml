@@ -1,0 +1,80 @@
+baseURL = "https://dharmitshah.com/"
+title = "dharmitshah"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+relativeURLs = true
+
+[params]
+author = "Dharmit Shah"
+avatarURL = "me.jpg"
+dateFormat = "January 2, 2006"
+since = 2017
+favicon_32 = "favicon-32x32.png"
+favicon_16 = "favicon-16x16.png"
+
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+# Custom JS
+customJS = []
+
+
+[taxonomies]
+series = "series"
+tag = "tags"
+series-desc = "series-desc"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/dharmit/"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/dharm1t/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/dharmitshah/"
+
+[[params.social]]
+name = "instagram"
+icon = "fa fa-2x fa-instagram"
+url = "https://www.instagram.com/dh4rmit"
+weight = 4
+
+[[params.social]]
+name = "Goodreads"
+icon = "fa fa-2x fa-book"
+weight = 5
+url = "https://www.goodreads.com/user/show/8656610-dharmit-shah"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 1
+url = "posts/"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[permalinks]
+posts = "/:year/:month/:filename/"
+
+[module]
+[module.hugoVersion]
+extended = false
