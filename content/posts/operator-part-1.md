@@ -6,8 +6,8 @@ tags = ["kubernetes", "operators", "go", "openshift", "olm", "operator-sdk"]
 series = ["kubernetes operators"]
 +++
 
-This is first in the series of posts about writing and publishing a Kubernetes Operator. This series will discuss the 
-following topcis:
+This is the first post in the series of posts about writing and publishing a Kubernetes Operator. This series will 
+discuss the following topics:
 * how to write an Operator,
 * run it on a Kubernetes cluster,
 * create a bundle and package it into an index image,
