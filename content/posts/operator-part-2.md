@@ -12,7 +12,7 @@ will cover:
 * creating a `CatalogSource` resource using this index image,
 * and creating an Operand (or a CR) out of the Operator we thus installed.
 
-If you haven't already, take a look at the [first part](./operator-part-1.md) before reading this further.
+If you haven't already, take a look at the [first part](../operator-part-1) before reading this further.
 
 {{< notice note >}}
 I'm writing this blog series as a part of learning Kubernetes Operators and Operator Framework myself. There might
