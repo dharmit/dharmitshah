@@ -17,6 +17,7 @@ dateFormat = "January 2, 2006"
 since = 2017
 favicon_32 = "favicon-32x32.png"
 favicon_16 = "favicon-16x16.png"
+images = ["apple-touch-icon.png"]
 
 colorScheme = "auto"
 # Hide the toggle button, along with the associated vertical divider
