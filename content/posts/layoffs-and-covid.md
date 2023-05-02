@@ -31,7 +31,7 @@ A lot of us probably thought that, "Hey, this is a China problem. I don't live i
 impact me." When it wreaked havoc in Italy in February 2020, we still felt it wasn't a problem we might face in our 
 country. I remember suggestions (folklore?) of how the COVID virus can't affect Indians because Indian summer 
 was too hot for it to survive. Another story claimed that lesser in-general hygiene made Indians more "immune" than 
-western folks (note that I'm talking hygiene standards of people, but the garbage dumps lying around 
+western folks (note that I'm not talking about the hygiene standards of people, but the garbage dumps lying around
 in Indian cities/towns/villages.)
 
 When COVID infections started appearing in India, it was Delhi, Mumbai and Ahmedabad that saw maximum patients, while 
