@@ -61,8 +61,7 @@ Login Succeeded
 
 $ make bundle bundle-build bundle-push
 ```
-Successful execution of above command creates, in my case, the container image - `quay.
-io/dharmit/at-operator-bundle:v0.0.1`
+Successful execution of above command creates, in my case, the container image - `quay.io/dharmit/at-operator-bundle:v0.0.1`
 
 ### Using the bundle
 
