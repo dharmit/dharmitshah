@@ -28,10 +28,10 @@ But that's pretty much it.
 So what the heck am I gonna do now? Well, turns out I'm going to try yet
 another time. :smile:
 
-Recently I came across this tweet which resonated with me in opposite way of
-how it was intended to. :wink::
+Recently I came across a tweet which resonated with me in opposite way of
+how it was intended to. :wink:
 
-{{< tweet 931316839761580032 >}}
+<!-- {{< tweet user="alicegoldfuss" id="931316839761580032" >}} -->
 
 We all have some spare time and I figured I could use some of it to write
 something in Go.
