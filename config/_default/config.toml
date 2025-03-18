@@ -25,7 +25,7 @@ hideColorSchemeToggle = false
 # Custom CSS
 customCSS = []
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
-customSCSS = []
+customSCSS = ["scss/_fonts.scss"]
 # Custom JS
 customJS = []
 
@@ -88,4 +88,4 @@ posts = "/:year/:month/:filename/"
 
 [module]
 [module.hugoVersion]
-extended = false
+extended = true
