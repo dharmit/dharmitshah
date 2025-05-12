@@ -3,6 +3,7 @@ date = 2025-05-11
 title = "Finally read a technical book!"
 description = "Experience of reading OSTEP (Operating Systems Three Easy Pieces), or the Comet book"
 tags = ["reading", "tech"]
+images = ["https://www.redbubble.com/shop/ap/50477786"]
 +++
 
 It's been 15 years since I completed the undergraduate course. Neither during
