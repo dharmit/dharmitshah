@@ -81,6 +81,11 @@ name = "Resume"
 weight = 3
 url = "resume.pdf"
 
+[[languages.en.menu.main]]
+name = "Now"
+weight = 4
+url = "now"
+
 [blackfriday]
 hrefTargetBlank = true
 
