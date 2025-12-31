@@ -47,7 +47,7 @@ very early days, moved back to FF, then Chrome again when, at some point, I
 found FF to be really slow compared to Chrome, and finally back to Firefox 
 since they released Firefox Quantum.
 
-{{< tweet user="dharm1t" id="930325215799795712" >}}
+{{< x user="dharm1t" id="930325215799795712" >}}
 
 Ever since then I have been a FF user and use Chrome mainly for work 
 because Google Meet works better on it.

@@ -90,7 +90,7 @@ url = "now"
 hrefTargetBlank = true
 
 [permalinks]
-posts = "/:year/:month/:filename/"
+posts = "/:year/:month/:contentbasename/"
 
 [module]
 [module.hugoVersion]
