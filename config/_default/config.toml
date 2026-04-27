@@ -1,9 +1,9 @@
 baseURL = "https://dharmitshah.com/"
-title = "dharmitshah"
+title = "Dharmit Shah"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-pagination.pagerSize = 20
+pagination.pagerSize = 15
 pygmentsStyle = "monokai"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
@@ -80,11 +80,6 @@ url = "about"
 name = "Resume"
 weight = 3
 url = "resume.pdf"
-
-[[languages.en.menu.main]]
-name = "Now"
-weight = 4
-url = "now"
 
 [blackfriday]
 hrefTargetBlank = true

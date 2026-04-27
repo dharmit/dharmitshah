@@ -3,12 +3,18 @@ title = "About"
 date = 2017-09-24T17:58:19+05:30
 +++
 
-*_Last Updated: 2025-08-03_*
+*_Last Updated: 2026-04-28_*
 
-I am a software engineer working on [Go](https://go.dev) & [Kubernetes](https://kubernetes.io) and presently employed at [SUSE](https://suse.com) where I work on escalations related for [Rancher](https://rancher.io). It's a role that bridges the technical support and product engineering teams. It means usually working on fixing problems and less on developing new features. For more details about what's keeping me technically curious and occupied right now, look at [Now](../now).
+Linux geek & learner. Avid reader. Proud [Jain](https://en.wikipedia.org/wiki/Jainism).
 
-Having worked on both sides of the bridge in the past, I'm curious to learn more about how customers use Rancher (and hence Kubernetes) as well as figure out which part of Kubernetes I want to focus on, i.e., is it custom controllers that excite me, or Kubernetes CLI, or the RBAC (very less chances), logging & monitoring, etc., the list can get really, really long! In the process, I might even end up wanting to get entirely rid of Kubernetes. :man_shrugging: :joy:
+In spite of being a Linux user since ~2009, I keep learning new things about it all the time and still find it really exciting to do so! These days I am solving [Iximiuz Labs challenges](https://labs.iximiuz.com/challenges) for this.
 
-Outside of tech I prefer reading books (both fiction and non-fiction), nature walks, and writing (journaling and blogging). And, when life permits, some traveling!
+Reading is a hobby I received in heredity but discovered accidentally — Harry Potter books were my first and I have not looked back. Lately I am inclined more towards biographies and philosophy. I believe fiction books are often self-help wrapped in a engaging story, so they are my goto when seeking fun.
 
-**DISCLAIMER**: Opinions expressed on this website are my own and do not represent that of my past, present, or future employers.
+Learning about different religions — their beliefs and practices — has always intrigued me but I am a follower of Jainism by the way of being born in a family following it. The more I learn about Jainism, the more I feel connected to it and interested in learning further.
+
+I work for a software company and write code, documentation, tests, and prompts for a living. Most of my code is written in Go and shell scripts. My techincal interests are Operating System (obviously Linux), Command Line Interfaces and product usability. These days I am learning new things at the intersection of Linux & Kubernetes as a way of working on it. My team builds an artifact that can be used by Cloud Native teams to build their stuff upon so that more tooling is easily interoperable.
+
+## DISCLAIMER
+
+Opinions expressed on this website are my own and do not represent that of my past, present, or future employers.
