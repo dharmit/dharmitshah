@@ -1,7 +1,7 @@
 baseURL = "https://dharmitshah.com/"
 title = "Dharmit Shah"
 theme = "hugo-coder"
-languageCode = "en"
+locale = "en"
 defaultContentLanguage = "en"
 pagination.pagerSize = 15
 pygmentsStyle = "monokai"
@@ -66,6 +66,12 @@ icon = "fa fa-2x fa-book"
 weight = 5
 url = "https://www.goodreads.com/user/show/8656610-dharmit-shah"
 
+[[params.social]]
+name = "RSS Feed"
+icon = "fa fa-2x fa-rss"
+weight = 6
+url = "/index.xml"
+
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 1
@@ -80,6 +86,11 @@ url = "about"
 name = "Resume"
 weight = 3
 url = "resume.pdf"
+
+[[languages.en.menu.main]]
+name = "Feed"
+weight = 4
+url = "/index.xml"
 
 [blackfriday]
 hrefTargetBlank = true
