@@ -1,0 +1,2 @@
+static/image-2026-10-26T08-56-45.iso filter=lfs diff=lfs merge=lfs -text
+static/image.iso filter=lfs diff=lfs merge=lfs -text
