@@ -3,6 +3,8 @@
 
 name: Deploy to Firebase Hosting on PR
 'on': pull_request
+env:
+  DART_SASS_VERSION: 1.108.2
 jobs:
   build_and_preview:
     if: '${{ github.event.pull_request.head.repo.full_name == github.repository }}'
@@ -13,6 +15,13 @@ jobs:
         with:
             submodules: true  # Fetch Hugo themes (true OR recursive)
             fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Install Dart Sass
+        run: |
+          mkdir -p "${HOME}/.local"
+          curl -sfL --output-dir "${{ runner.temp }}" -O "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          tar -C "${HOME}/.local" -xf "${{ runner.temp }}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
 
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2.6.0
